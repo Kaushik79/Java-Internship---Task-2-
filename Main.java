@@ -1,5 +1,5 @@
 //Student Grade Management System
-package Task_7;
+package Task_2;
 
 import java.util.ArrayList;
 import java.util.Scanner;
